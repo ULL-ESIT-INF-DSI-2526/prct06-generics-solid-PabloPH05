@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2024",
-    "module": "commonjs",
+    "module": "node16",
     "noImplicitAny": true,
     "strictNullChecks": true,
     "rootDir": "./src",
