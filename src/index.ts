@@ -1,2 +1,5 @@
-export const hello = (name: string): string => `Hola, ${name}!`;
-console.log(hello('Mundo'));
+/**
+ * Este fichero actua como indice para el script npm start
+ */
+
+import './ejercicio-1';
