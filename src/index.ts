@@ -3,4 +3,4 @@
  */
 
 import './ejercicio-1/index.js';
-import './ejercicio-lunes/index.js';
+import './ejercicio-practica/index.js';
